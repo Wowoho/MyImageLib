@@ -1,4 +1,4 @@
-#MyImageLib
+# MyImageLib
 为了统一坐标方向，基于OpenCV、PIL和numpy，封装了常用的图形处理函数
 
 - 规定MyImageLib中的坐标系：  
