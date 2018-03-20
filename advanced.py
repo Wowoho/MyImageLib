@@ -1,6 +1,4 @@
-import cv2
-import numpy as np
-from MyImageLib.basic import *
+from MyimageLib.basic import *
 
 
 def removeBorder(src, background=(0, 0)):
