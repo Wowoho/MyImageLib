@@ -5,7 +5,7 @@
  所有形如(x, y)的参数，横向为x，纵向为y，图像左上角为(0, 0)
 
 ----
-> ##basic(基本操作)
+> ## basic(基本操作)
 ### Rotate(src, angle, center=(x, y))
 旋转
 >src:        图片源文件  
@@ -33,7 +33,7 @@
 >xmin等:     字面意思
 
 ----
-> ##advanced(高级操作)
+> ## advanced(高级操作)
 ###removeBorder(src, background=(minCol, maxCol))
 将周围一圈背景去掉
 >src:        图片源文件   
@@ -46,7 +46,7 @@
 >color:      边框颜色
 
 ----
-> #noise(加噪声)
+> # noise(加噪声)
 ### SaltAndPepper(src, percetage)
 椒盐噪声
 >src:        图片源文件   
