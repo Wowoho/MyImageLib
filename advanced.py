@@ -1,4 +1,4 @@
-from MyimageLib.basic import *
+from MyImageLib.basic import *
 
 
 def removeBorder(src, background=(0, 0)):
